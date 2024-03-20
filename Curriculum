@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+    </head>
+    <body>
+        <section name="imagen"id="imagen"></section>
+        <img src="img-foto/foto.png" alt="foto" width="300px" height="300px">
+        <hr>
+    </body>
+</html>
+</section> name="texto" id="texto">
+<section>
+    <h1> Brenda Anahi Balanzar Lopez</h1>
+    <h2>Deescripcion</h2>
+    <p>Soy una niña muy responsable pero me enojo muy rapido</p>
+    <ul>
+        <li><i>Carrera:Informatica</i></li>
+        <li><i>Pasatiempos:Escuchar musica</i></li>
+        <li><i>Disgustos:El pastel</i></li>
+    </ul>
+</section>
+<section>
+    <ul>
+        <li><a> href=https://www.facebook.com/profille.php?</a></li>
+    </ul>
+</section>
+</body>
+</html> 
